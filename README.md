@@ -23,14 +23,6 @@ HR-MANAGEMENT-SYSTEM/
 │-- data/ 
 Usage
 
-Open the application and navigate through employee records.
-
-Add, update, or delete employee details.
-
-View department structures.
-
-Contributing
-
 Feel free to contribute! Submit a pull request or report issues in the repository.
 
 License
